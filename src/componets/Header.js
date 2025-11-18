@@ -50,7 +50,7 @@ const Header = () => {
       >
         <div className="flex items-center justify-center mt-10">
           <div className="bg-[cyan] text-black px-6 py-2 rounded-full mx-2">
-          <Link to={"/signup"} onClick={menuClick}> Sign Un</Link>
+          <Link to={"/signup"} onClick={menuClick}> Sign Up</Link>
           </div>
           <div className="bg-[cyan] text-black px-6 py-2 rounded-full mx-2">
           <Link to={"/signin"} onClick={menuClick}> Sign In</Link>
