@@ -46,7 +46,7 @@ const Header = () => {
       </div>
       <div
         id="navBar"
-        className="hidden absolute md:hidden h-[110vh] bg-gray-700 border-2 border-solid border-white text-white w-[90vw] -mt-10"
+        className="hidden absolute md:hidden h-[110vh] bg-gray-700 text-white w-[90vw] -mt-10"
       >
         <div className="flex items-center justify-center mt-10">
           <div className="bg-[cyan] text-black px-6 py-2 rounded-full mx-2">
